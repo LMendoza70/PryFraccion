@@ -9,5 +9,7 @@ namespace PryFraccion
     class clsEjemplo
     {
         private string cadena;
+
+        private int ejemplo2;
     }
 }
