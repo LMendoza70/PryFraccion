@@ -8,5 +8,6 @@ namespace PryFraccion
 {
     class clsEjemplo
     {
+        private string cadena;
     }
 }
